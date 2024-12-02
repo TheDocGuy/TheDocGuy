@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on improving technical documentation processes, exploring new use cases for document automation, creating robust workflows for continuous integration and continuous delivery (CI/CD) pipelines, and gaining experience in program management.
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/ryan-lake-b0065956/) or via GitHub messages.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: When I’m not leading documentation initiatives, I enjoy exploring barefoot shoes, planning remote work trips, or developing creative ways to use AI to improve meeting management.
+- ⚡ Fun fact: When I’m not leading documentation initiatives, I enjoy exploring how many steps I can take in barefoot shoes, planning and implementing home improvement projects, or developing creative ways to use AI to improve meeting management.
 
 <!---
 TheDocGuy/TheDocGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
